@@ -1,3 +1,5 @@
+Feel free to pull code
+
 Resources:
 * https://pandas.pydata.org/pandas-docs/stable/index.html
 last access 18/10/2021
